@@ -7,6 +7,8 @@ The experiment involved two participants performing three types of cardio exerci
 across three durations (10, 20, and 30 minutes) and three intensity levels (Low, Medium, and High). 
 Caloric expenditure was measured using fitness devices, including an Apple Watch, Fitbit, and cardio machine counters, ensuring comprehensive data collection.
 
+Main report is **Final_Report.pdf**
+
 ## Key Features:
 
 - Study Design: Replicated Latin Square Design with blocking for duration and intensity
